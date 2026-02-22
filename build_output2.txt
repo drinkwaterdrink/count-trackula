@@ -1,0 +1,16 @@
+﻿asset [1m[32mindex.js[39m[22m 1.96 MiB [1m[32m[emitted][39m[22m [javascript module] (name: main) 1 related asset
+runtime modules 793 bytes 4 modules
+modules by path [1m./node_modules/[39m[22m 1.84 MiB 69 modules
+modules by path [1mexternal "../../../[39m[22m 672 bytes
+  modules by path [1mexternal "../../../../*.js"[39m[22m 462 bytes 11 modules
+  modules by path [1mexternal "../../../../../[39m[22m 84 bytes 2 modules
+  modules by path [1mexternal "../../../../slash-commands/*.js"[39m[22m 84 bytes 2 modules
+  [1mexternal "../../../regex/engine.js"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+modules by path [1m./src/[39m[22m 83.6 KiB
+  modules by path [1m./src/*.ts[39m[22m 15.2 KiB
+    [1m./src/config.ts[39m[22m 10.4 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    + 2 modules
+  [1m./src/index.tsx[39m[22m 42.7 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/components/Settings.tsx[39m[22m 23.8 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./src/hooks/useForceUpdate.ts[39m[22m 1.92 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.100.2 compiled [1m[32msuccessfully[39m[22m in 1373 ms
